@@ -1,0 +1,10 @@
+.uploader {
+    border: 1px solid lightseagreen;
+    border-radius: 5px;
+    margin-top: 20px;
+    box-shadow: 0 0 10px 5px rgba(221, 221, 221, 1);
+}
+
+.uploader input {
+    display: none;
+}
